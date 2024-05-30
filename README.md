@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ladiposamuel
 - 👀 I’m interested in python and Data science
-- 🌱 I’m currently working python and data science projects
+- 🌱 I’m currently working data analysis and data science projects
 
 <!---
 ladiposamuel/ladiposamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
